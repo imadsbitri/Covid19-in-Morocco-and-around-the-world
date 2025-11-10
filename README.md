@@ -9,14 +9,20 @@ It highlights the data preparation process, SQL transformations, and Power BI da
 ## 🔧 Process  
 
 ### 1️⃣ Data Collection & Cleaning  
-The original dataset was imported and cleaned in **Excel**.  
-Unnecessary columns were removed, missing values handled, and date formats standardized.  
-A separate dataset for **Morocco** was extracted for focused national analysis.  
+- The original dataset was imported and lightly cleaned in **Excel**.  
+- Basic cleaning steps included removing unnecessary columns, handling missing values, and standardizing date formats.  
+- A subset of the data focusing on **Morocco** was extracted for a dedicated national analysis.
+
 
 ### 2️⃣ Data Transformation in SQL  
-Cleaned data was imported into **PostgreSQL (pgAdmin4)**.  
-Two main tables — COVID deaths and vaccinations — were created to organize and structure the data.  
-Using SQL, calculations were performed to determine infection and death rates, vaccination coverage, and other health metrics by country and date.  
+- The cleaned data was imported into **PostgreSQL (pgAdmin4)**.  
+- New tables were created using SQL:
+  - `covid_deaths`
+  - `vaccinations_in_morocco`  
+- SQL queries were used to calculate:
+  - Infection and death rates  
+  - Vaccination coverage  
+  - Other key health metrics by country and date 
 
 ### 3️⃣ Data Export & Integration  
 After transformations, the data was exported as CSV files to ensure compatibility with Power BI.  
