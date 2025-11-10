@@ -54,5 +54,5 @@ Each dashboard combines visuals such as bar charts, line charts, pie charts, and
 ---
 
 ## 🧠 Summary  
-This project demonstrates a complete data analysis workflow — from raw data cleaning and SQL modeling to advanced data visualization.  
+This project demonstrates a complete data analysis workflow from raw data cleaning and SQL modeling to advanced data visualization.  
 It showcases how different tools can be combined to produce actionable insights and communicate complex data clearly and effectively.
