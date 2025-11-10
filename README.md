@@ -9,7 +9,7 @@ It highlights the data preparation process, SQL transformations, and Power BI da
 ## 🔧 Process  
 
 ### 1️⃣ Data Collection & Cleaning  
-- The original dataset was imported and lightly cleaned in **Excel**.  
+- The original dataset was imported and  cleaned in **Excel**.  
 - Basic cleaning steps included removing unnecessary columns, handling missing values, and standardizing date formats.  
 - A subset of the data focusing on **Morocco** was extracted for a dedicated national analysis.
 
