@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Data Analysis — SQL, Excel & Power BI
+#  COVID-19 Data Analysis — SQL, Excel & Power BI
 
 ## 📌 Overview  
 This project analyzes the spread and impact of COVID-19 globally and in Morocco from January 2020 to April 2021.  
